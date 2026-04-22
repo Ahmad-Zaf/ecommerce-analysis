@@ -14,12 +14,8 @@ CSV → Excel (explore) → SSMS SQL Server (clean + query) → Python EDA & RFM
 - 60%+ of customers never returned after their first order
 - São Paulo and Rio de Janeiro account for 50%+ of revenue
 
-## How to Run
-1. pip install -r requirements.txt
-2. Import Olist CSVs into SQL Server as EcommerceDB (see guide)
-3. Update SERVER name in notebooks and app.py if needed
-4. Run notebooks in order: 01_eda → 02_rfm
-5. cd dashboard && python app.py
-
 ## SQL Queries
 All 8 SQL queries are saved in the /sql folder
+
+PowerBi Dashboard is located in output folder.
+[Tableau Dashboard link](https://public.tableau.com/views/OlistE-CommerceSalesAnalysis_17766136210180/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
