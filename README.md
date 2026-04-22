@@ -3,7 +3,7 @@
 Analysis of 100,000+ real orders from the Olist Brazilian e-commerce platform.
 
 ## Tools Used
-SQL Server Management Studio (SSMS), Python, Pandas, Matplotlib, Seaborn
+SQL Server Management Studio (SSMS), Python, Pandas, Matplotlib, PowerBI, Tableau
 
 ## Workflow
 CSV → Excel (explore) → SSMS SQL Server (clean + query) → Python EDA & RFM → PowerBI & Tableau Public 
